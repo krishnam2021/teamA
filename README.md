@@ -1,2 +1,2 @@
-# teamA
-Team A contents
+This is a devops class
+
